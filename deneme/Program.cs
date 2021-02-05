@@ -15,6 +15,7 @@ namespace deneme
             BasvuruManager basvuruManager = new BasvuruManager();
             basvuruManager.BasvuruYap(krediManagers,loggerServices);
 
+
             
 
         }
