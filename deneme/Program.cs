@@ -16,6 +16,7 @@ namespace deneme
             basvuruManager.BasvuruYap(krediManagers,loggerServices);
 
 
+
             
 
         }
